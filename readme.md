@@ -3,13 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=D8EEF9&height=200&section=header&text=Hi!%20I'm%20Hyunjin&fontSize=60)
 
 </div>
+
 <div align="center">  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunzzin&count_bg=%23000000&title_bg=%23090909&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=forinpea121)](https://solved.ac/forinpea121)   
+
 </div>
-
-
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunzzin&layout=compact)](https://github.com/hyunzzin/github-readme-stats)
